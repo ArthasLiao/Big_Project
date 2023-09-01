@@ -64,7 +64,6 @@ parser.add_argument('--classes', default=0, type=int, help='filter by class: --c
 ```
 
 ## 文件夹说明
-#
 .idea _pycache_ deep_sort models self_utils utils weights 等文件夹是相关配置文件以及外部调用的函数工具等等。
 #
 venv文件夹是虚拟环境所在。
