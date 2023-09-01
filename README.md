@@ -63,7 +63,12 @@ parser.add_argument('--classes', default=0, type=int, help='filter by class: --c
 
 ```
 
+## 文件夹说明
+.idea _pycache_ deep_sort models self_utils utils weights 等文件夹是相关配置文件以及外部调用的函数工具等等。
+venv文件夹是虚拟环境所在。
+try文件夹是作废的一些版本，虽然只是我们许多失败品很小一部分，但以纪念我们的尝试。
+output文件夹是视频输出路径。
 
 
-检测效果：
+## 检测效果：
 ![fb7afaf02494743698f5ef78cb3bec8e](https://github.com/ArthasLiao/Big_Project/assets/131543989/6a8388b6-9597-499d-852d-7d335a25302b)
