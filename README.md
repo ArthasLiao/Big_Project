@@ -1,8 +1,11 @@
 # 基于yolov5和deepsort的行人跟踪计数系统
 ## 成员介绍
-组长:董佳骐（U202112217）
+组长:
+#
+董佳骐（U202112217）
 #
 组员:
+#
 张书健（U202112246）
 #
 彭凌刚（U202112465）
@@ -64,5 +67,3 @@ parser.add_argument('--classes', default=0, type=int, help='filter by class: --c
 
 检测效果：
 ![fb7afaf02494743698f5ef78cb3bec8e](https://github.com/ArthasLiao/Big_Project/assets/131543989/6a8388b6-9597-499d-852d-7d335a25302b)
-
-![](https://img-blog.csdnimg.cn/965128beb6804047980329b7c4911275.jpeg#pic_center)
